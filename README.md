@@ -1,4 +1,6 @@
-# Django_blog
+# Django blog exercise
+
+Fork del proyecto https://github.com/TheAbhijeet/Django_blog
 
 A blog application made on Django.
 
